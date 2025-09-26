@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hector&#39;s Website</title>
-    <link>http://localhost:46567/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Hector&#39;s Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 Hector Lee</copyright>
-    <lastBuildDate>Fri, 26 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:46567/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 26 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Ctf-FirstPost</title>
-      <link>http://localhost:46567/ctfs/1758882144322-ctf-firstpost/</link>
+      <link>http://localhost:1313/ctfs/1758882144322-ctf-firstpost/</link>
       <pubDate>Fri, 26 Sep 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:46567/ctfs/1758882144322-ctf-firstpost/</guid>
+      <guid>http://localhost:1313/ctfs/1758882144322-ctf-firstpost/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:46567/ctfs/1758882144322-ctf-firstpost/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/ctfs/1758882144322-ctf-firstpost/featured.png" />
     </item>
     
     <item>
       <title>My First Post</title>
-      <link>http://localhost:46567/posts/my-first-post/</link>
+      <link>http://localhost:1313/posts/my-first-post/</link>
       <pubDate>Thu, 25 Sep 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:46567/posts/my-first-post/</guid>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:46567/posts/my-first-post/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/my-first-post/featured.png" />
     </item>
     
   </channel>

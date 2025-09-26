@@ -20,6 +20,12 @@ linkedin = "https://www.linkedin.com/in/hector-lee-ye/"
 [[params.author.links]]
 telegram = "https://t.me/schrodingers_skirt"
 
+[[params.author.links]]
+mail-spark = "mailto:hector.lee.2021@scis.smu.edu.sg"
+
+[[params.author.links]]
+file-cv = "/Hector_Resume_250925.pdf"
+
 ["params.author"]
 name = "Hector Lee"
 image = "photo_6181697939408274229_y.jpg"
