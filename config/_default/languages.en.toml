@@ -26,6 +26,9 @@ mail-spark = "mailto:hector.lee.2021@scis.smu.edu.sg"
 [[params.author.links]]
 file-cv = "/Hector_Resume_250925.pdf"
 
+[[params.author.links]]
+box = "https://app.hackthebox.com/profile/1919737"
+
 ["params.author"]
 name = "Hector Lee"
 image = "photo_6181697939408274229_y.jpg"
