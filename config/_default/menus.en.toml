@@ -13,5 +13,12 @@ pageRef = "ctfs"
 identifier = "X01TxeUmpl"
 weight = 9_999
 
+[[main]]
+name = "Projects"
+pre = "lightbulb"
+pageRef = "Projects"
+identifier = "estl7adWl3"
+weight = 9_999
+
 [[footer]]
 none = "none"

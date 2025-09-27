@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Selfhosted on Hector&#39;s Website</title>
+    <link>http://localhost:1313/tags/selfhosted/</link>
+    <description>Recent content in Selfhosted on Hector&#39;s Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 Hector Lee</copyright>
+    <lastBuildDate>Sat, 27 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/selfhosted/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>CTF Pentest Checklist</title>
+      <link>http://localhost:1313/projects/1758968307255-ctf-pentest-checklist/</link>
+      <pubDate>Sat, 27 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/1758968307255-ctf-pentest-checklist/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/1758968307255-ctf-pentest-checklist/featured.png" />
+    </item>
+    
+  </channel>
+</rss>

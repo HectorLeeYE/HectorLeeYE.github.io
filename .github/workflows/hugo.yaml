@@ -1,7 +1,8 @@
 name: Build and deploy
 on:
-  schedule:
-    - cron: "18 18 * * *"     # I think it's Singapore 2am
+  push:
+    branches:
+      - master        # Apparently github actions are free if it's a public repo!
   workflow_dispatch:
 permissions:
   contents: read
