@@ -13,7 +13,6 @@ giteaDefaultServer = "https://git.fsfe.org"
 forgejoDefaultServer = "https://v11.next.forgejo.org"
 firebase = { }
 fathomAnalytics = { }
-umamiAnalytics = { }
 selineAnalytics = { }
 buymeacoffee = { }
 verification = { }
@@ -105,3 +104,8 @@ showTableOfContents = true
 groupByYear = false
 cardView = false
 cardViewScreenWidth = false
+
+[umamiAnalytics]
+  websiteid = "3a53ff6a-e947-4457-bb8f-7cf1480976f6"
+  domain = "hectorleeye.github.io"
+  enableTrackEvent = true

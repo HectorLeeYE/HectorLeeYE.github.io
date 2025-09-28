@@ -204,6 +204,29 @@
   
 
 
+  
+
+  <script
+    data-id="umami-script"
+    async
+    src="https://hectorleeye.github.io/script.js"
+    data-website-id="3a53ff6a-e947-4457-bb8f-7cf1480976f6"
+    ></script>
+
+
+
+
+  <script type="text/javascript">
+    document.querySelector('script[data-id="umami-script"]').addEventListener("load", function () {
+      const type = document.head.querySelector('meta[property = "og:type"]').getAttribute("content");
+      let title = document.head.querySelector('meta[property = "og:title"]').getAttribute("content");
+      let url = document.head.querySelector('meta[property = "og:url"]').getAttribute("content");
+      umami.track(type + ":" + title, { url: url });
+    });
+  </script>
+
+
+
 
 
 
@@ -609,7 +632,7 @@
     class="absolute inset-0"
     aria-label="CTF Pentest Checklist"></a>
         
-          <div class="w-full md:w-auto h-full thumbnail nozoom thumbnailshadow md:mr-7" style="background-image:url(/projects/1758968307255-ctf-pentest-checklist/featured_hu_8b2eab62341e4d9f.png);"></div>
+          <div class="w-full md:w-auto h-full thumbnail nozoom thumbnailshadow md:mr-7" style="background-image:url(/projects/1758968307255-ctf-pentest-checklist/featured_hu_85a5986ded98a328.png);"></div>
         
       <div class=" mt-3 md:mt-0">
     <div class="items-center text-start text-xl font-semibold">
