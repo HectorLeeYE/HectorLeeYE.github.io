@@ -108,4 +108,5 @@ cardViewScreenWidth = false
 [umamiAnalytics]
   websiteid = "3a53ff6a-e947-4457-bb8f-7cf1480976f6"
   domain = "hectorleeye.github.io"
+  server = "https://analytics.umami.is"
   enableTrackEvent = true
