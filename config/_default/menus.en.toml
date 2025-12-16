@@ -4,11 +4,13 @@ none = "none"
 [[main]]
 name = "Blog"
 pageRef = "posts"
+pre = "comment"
 identifier = "hFLLmtecPq"
 weight = 9_999
 
 [[main]]
 name = "CTFs"
+pre = "bomb"
 pageRef = "ctfs"
 identifier = "X01TxeUmpl"
 weight = 9_999
