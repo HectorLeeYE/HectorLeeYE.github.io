@@ -5,7 +5,6 @@
 4. Remember to link to s3!
 
 
-
 ## NOTES
-Run things with ` blowfish-tools`
-
+1) Run things with ` blowfish-tools`
+2) Don't forget to `vale content/` to spellcheck!
