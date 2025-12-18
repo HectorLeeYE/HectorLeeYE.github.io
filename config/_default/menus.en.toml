@@ -18,9 +18,24 @@ weight = 9_999
 [[main]]
 name = "Projects"
 pre = "lightbulb"
-pageRef = "Projects"
+pageRef = "projects"
 identifier = "estl7adWl3"
 weight = 9_999
+
+
+[[main]]
+name = "University Projects"
+pageRef = "projects/university"
+weight = 11
+parent = "estl7adWl3"
+
+
+[[main]]
+name = "Personal Projects"
+pageRef = "projects/personal"
+weight = 12
+parent = "estl7adWl3"
+
 
 [[footer]]
 none = "none"

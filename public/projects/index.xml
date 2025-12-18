@@ -2,32 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Hector&#39;s Website</title>
-    <link>http://localhost:39847/projects/</link>
+    <link>http://localhost:1313/projects/</link>
     <description>Recent content in Projects on Hector&#39;s Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 Hector Lee</copyright>
-    <lastBuildDate>Mon, 15 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:39847/projects/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>OneMath- What is it?</title>
-      <link>http://localhost:39847/projects/onemath/</link>
-      <pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:39847/projects/onemath/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:39847/projects/onemath/featured.png" />
-    </item>
-    
-    <item>
-      <title>CTF Pentest Checklist</title>
-      <link>http://localhost:39847/projects/ctf-pentest-checklist/</link>
-      <pubDate>Sat, 27 Sep 2025 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:39847/projects/ctf-pentest-checklist/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:39847/projects/ctf-pentest-checklist/featured.png" />
-    </item>
+    <lastBuildDate>Thu, 25 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>
