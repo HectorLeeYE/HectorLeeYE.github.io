@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>CS302 on Hector&#39;s Website</title>
-    <link>http://localhost:1313/tags/cs302/</link>
+    <link>https://hectorleeye.github.io/tags/cs302/</link>
     <description>Recent content in CS302 on Hector&#39;s Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2025 Hector Lee</copyright>
-    <lastBuildDate>Fri, 19 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/cs302/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2026 Hector Lee</copyright>
+    <lastBuildDate>Fri, 19 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://hectorleeye.github.io/tags/cs302/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>CS302 DevOps</title>
-      <link>http://localhost:1313/projects/university/cs302-devops/</link>
+      <link>https://hectorleeye.github.io/projects/university/cs302-devops/</link>
       <pubDate>Fri, 19 Dec 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/projects/university/cs302-devops/</guid>
+      <guid>https://hectorleeye.github.io/projects/university/cs302-devops/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/university/cs302-devops/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://hectorleeye.github.io/projects/university/cs302-devops/featured.png" />
     </item>
     
     <item>
       <title>SMU Y3S1</title>
-      <link>http://localhost:1313/posts/1766021345202-smu-y3s1/</link>
+      <link>https://hectorleeye.github.io/posts/1766021345202-smu-y3s1/</link>
       <pubDate>Thu, 18 Dec 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/1766021345202-smu-y3s1/</guid>
+      <guid>https://hectorleeye.github.io/posts/1766021345202-smu-y3s1/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/1766021345202-smu-y3s1/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://hectorleeye.github.io/posts/1766021345202-smu-y3s1/featured.png" />
     </item>
     
   </channel>

@@ -31,6 +31,6 @@ box = "https://app.hackthebox.com/profile/1919737"
 
 ["params.author"]
 name = "Hector Lee"
-image = "photo_6181697939408274229_y.jpg"
+image = "SpiderLily.jpg"
 headline = "Documenting my CS and Cybersecurity Journey"
 bio = "Hi I'm Hector, a 24 Year Old CS student in SMU, specialising in Cybersecurity. Thanks for reading!"

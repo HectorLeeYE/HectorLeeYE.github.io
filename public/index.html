@@ -5,7 +5,7 @@
   class="scroll-smooth"
   data-default-appearance="dark"
   data-auto-appearance="true"><head>
-	<meta name="generator" content="Hugo 0.152.2"><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+	<meta name="generator" content="Hugo 0.152.2">
   <meta charset="utf-8">
   
     <meta http-equiv="content-language" content="en">
@@ -27,7 +27,7 @@
   
   
   
-  <link rel="canonical" href="http://localhost:1313/">
+  <link rel="canonical" href="https://hectorleeye.github.io/">
   
     
       <link rel="alternate" type="application/rss+xml" href="/index.xml" title="Hector's Website" />
@@ -79,7 +79,7 @@
   
 
   
-  <meta property="og:url" content="http://localhost:1313/">
+  <meta property="og:url" content="https://hectorleeye.github.io/">
   <meta property="og:site_name" content="Hector&#39;s Website">
   <meta property="og:title" content="Hector&#39;s Website">
   <meta property="og:description" content="Hector&#39;s Website and Blog. Contains projects, writeups, learnings">
@@ -237,11 +237,11 @@
   {
     "@context": "https://schema.org",
     "@type": "WebSite",
-    "@id": "http://localhost:1313/",
+    "@id": "https://hectorleeye.github.io/",
     "name": "Hector\u0027s Website",
     "description": "Hector\u0027s Website and Blog. Contains projects, writeups, learnings",
     "inLanguage": "en",
-    "url": "http://localhost:1313/",
+    "url": "https://hectorleeye.github.io/",
     
     "publisher" : {
       "@type": "Person",
@@ -253,6 +253,34 @@
 
 
   
+  
+    
+
+
+  
+
+  <script
+    data-id="umami-script"
+    async
+    src="https://analytics.umami.is/script.js"
+    data-website-id="3a53ff6a-e947-4457-bb8f-7cf1480976f6"></script>
+
+
+
+
+  <script type="text/javascript">
+    document.querySelector('script[data-id="umami-script"]').addEventListener("load", function () {
+      const type = document.head.querySelector('meta[property = "og:type"]').getAttribute("content");
+      let title = document.head.querySelector('meta[property = "og:title"]').getAttribute("content");
+      let url = document.head.querySelector('meta[property = "og:url"]').getAttribute("content");
+      umami.track(type + ":" + title, { url: url });
+    });
+  </script>
+
+
+
+
+
   
 
   
@@ -729,8 +757,8 @@
           width="144"
           height="144"
           alt="Hector Lee"
-          src="/photo_6181697939408274229_y_hu_d4db0f23933a733e.jpg"
-          data-zoom-src="/photo_6181697939408274229_y_hu_6715a8e6e142ffb8.jpg">
+          src="/SpiderLily_hu_d94812cbc557248.jpg"
+          data-zoom-src="/SpiderLily_hu_9bcf5a999da25896.jpg">
       
     
     <h1 class="text-4xl font-extrabold">
@@ -1362,7 +1390,7 @@
     
       <p class="text-sm text-neutral-500 dark:text-neutral-400">
           &copy;
-          2025
+          2026
           Hector Lee
       </p>
     
@@ -1395,11 +1423,43 @@
     integrity="sha512-7gNIjxnJPC77GZ4uMBTqXzyyzn1FFUrbM5mhWMrCfKUoMdsknt5btgJwDvh&#43;sCQ0E53ghYrxgYqw&#43;0GCRyIEpA=="></script>
   
   
+    <link
+  rel="stylesheet"
+  href="https://fastly.jsdelivr.net/npm/live2d-widgets@1.0.0-rc.6/dist/waifu.css"
+/>
+<style>
+  #waifu        { left: auto; right: 15px; }
+  #waifu-toggle { left: auto; right: 0; margin-left: 0; margin-right: -100px; }
+  #waifu-tips   { left: auto; right: 20px; }
+</style>
+<script>
+  window.addEventListener("error", function (e) {
+    if (e.message && e.message.includes("getHitAreasCount")) {
+      e.stopImmediatePropagation();
+      e.preventDefault();
+      return true;
+    }
+  }, true);
+</script>
+<script type="module">
+  await import("https://fastly.jsdelivr.net/npm/live2d-widgets@1.0.0-rc.6/dist/waifu-tips.js");
+  initWidget({
+    waifuPath: "/live2d/waifu-tips.json",
+    cdnPath: "/live2d/",
+    cubism5Path:
+      "https://cubism.live2d.com/sdk-web/cubismcore/live2dcubismcore.min.js",
+    modelId: 0,
+    tools: ["info", "quit"],
+    drag: true,
+  });
+</script>
+
+  
 </footer>
 <div
   id="search-wrapper"
   class="invisible fixed inset-0 flex h-screen w-screen cursor-default flex-col bg-neutral-500/50 p-4 backdrop-blur-sm dark:bg-neutral-900/50 sm:p-6 md:p-[10vh] lg:p-[12vh] z-500"
-  data-url="http://localhost:1313/">
+  data-url="https://hectorleeye.github.io/">
   <div
     id="search-modal"
     class="flex flex-col w-full max-w-3xl min-h-0 mx-auto border rounded-md shadow-lg top-20 border-neutral-200 bg-neutral dark:border-neutral-700 dark:bg-neutral-800">

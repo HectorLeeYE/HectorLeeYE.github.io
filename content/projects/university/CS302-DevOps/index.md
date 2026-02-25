@@ -1,7 +1,7 @@
 ---
 title: "CS302 DevOps"
 date: 2025-12-19
-draft: false
+draft: true
 description: "CS302 Devops Project- ⚒️TrueHammer⚒️"
 tags: ["SMU", "CS302", "DevOps", "Project"]
 ---
