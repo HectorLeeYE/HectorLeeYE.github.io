@@ -16,6 +16,25 @@ identifier = "X01TxeUmpl"
 weight = 9_999
 
 [[main]]
+name = "HTB"
+pageRef = "ctfs/htb"
+weight = 11
+parent = "X01TxeUmpl"
+
+[[main]]
+name = "OffSec"
+pageRef = "ctfs/offsec"
+weight = 11
+parent = "X01TxeUmpl"
+
+[[main]]
+name = "THM"
+pageRef = "ctfs/thm"
+weight = 11
+parent = "X01TxeUmpl"
+
+
+[[main]]
 name = "Projects"
 pre = "lightbulb"
 pageRef = "projects"

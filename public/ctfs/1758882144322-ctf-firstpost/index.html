@@ -855,8 +855,8 @@
         width="96"
         height="96"
         alt="Hector Lee"
-        src="/photo_6181697939408274229_y_hu_c84398681961fbd4.jpg"
-        data-zoom-src="/photo_6181697939408274229_y_hu_6715a8e6e142ffb8.jpg">
+        src="/SpiderLily_hu_7e4f06d0c969d0cc.jpg"
+        data-zoom-src="/SpiderLily_hu_9bcf5a999da25896.jpg">
     
   
   <div class="place-self-center">
@@ -1180,7 +1180,7 @@ undefined</p>
     
       <p class="text-sm text-neutral-500 dark:text-neutral-400">
           &copy;
-          2025
+          2026
           Hector Lee
       </p>
     
@@ -1212,6 +1212,38 @@ undefined</p>
     src="/js/process.min.ee03488f19c93c2efb199e2e3014ea5f3cb2ce7d45154adb3399a158cac27ca52831db249ede5bb602700ef87eb02434139de0858af1818ab0fb4182472204a4.js"
     integrity="sha512-7gNIjxnJPC77GZ4uMBTqXzyyzn1FFUrbM5mhWMrCfKUoMdsknt5btgJwDvh&#43;sCQ0E53ghYrxgYqw&#43;0GCRyIEpA=="></script>
   
+  
+    <link
+  rel="stylesheet"
+  href="https://fastly.jsdelivr.net/npm/live2d-widgets@1.0.0-rc.6/dist/waifu.css"
+/>
+<style>
+  #waifu        { left: auto; right: 15px; }
+  #waifu-toggle { left: auto; right: 0; margin-left: 0; margin-right: -100px; }
+  #waifu-tips   { left: auto; right: 20px; }
+</style>
+<script>
+  window.addEventListener("error", function (e) {
+    if (e.message && e.message.includes("getHitAreasCount")) {
+      e.stopImmediatePropagation();
+      e.preventDefault();
+      return true;
+    }
+  }, true);
+</script>
+<script type="module">
+  await import("https://fastly.jsdelivr.net/npm/live2d-widgets@1.0.0-rc.6/dist/waifu-tips.js");
+  initWidget({
+    waifuPath: "/live2d/waifu-tips.json",
+    cdnPath: "/live2d/",
+    cubism5Path:
+      "https://cubism.live2d.com/sdk-web/cubismcore/live2dcubismcore.min.js",
+    modelId: 0,
+    tools: ["info", "quit"],
+    drag: true,
+  });
+</script>
+
   
 </footer>
 <div
