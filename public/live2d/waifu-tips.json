@@ -1,0 +1,135 @@
+{
+  "mouseover": [
+    {
+      "selector": "#waifu-tool-hitokoto",
+      "text": ["Want to hear something interesting?", "Let me find a quote for you!", "Consider checking out Hector's CTF Checklist! He Spent lots of time on it!"]
+    },
+    {
+      "selector": "#waifu-tool-asteroids",
+      "text": ["Want to play a game?", "Pew pew pew!", "Let's blast some asteroids!"]
+    },
+    {
+      "selector": "#waifu-tool-switch-model",
+      "text": ["Looking for a change?", "Want to switch things up?"]
+    },
+    {
+      "selector": "#waifu-tool-photo",
+      "text": ["Strike a pose! Say cheese!", "Let's take a photo together!", "One, two, three — smile!"]
+    },
+    {
+      "selector": "#waifu-tool-info",
+      "text": ["Want to know more about me?", "Curious, aren't you?"]
+    },
+    {
+      "selector": "#waifu-tool-quit",
+      "text": ["Are you leaving already?", "Don't abandon me...", "You'll miss me, I know it!"]
+    },
+    {
+      "selector": "a[href^='mailto']",
+      "text": ["Sending Hector a message? He'll reply!", "Click to send an email~"]
+    },
+    {
+      "selector": ".copy-btn",
+      "text": ["Click to copy the code!"]
+    },
+    {
+      "selector": ".container a[href^='http']",
+      "text": ["Heading to <span>{text}</span>?", "Check out <span>{text}</span>!"]
+    },
+    {
+      "selector": ".back-to-top",
+      "text": ["Back to the top!", "Return to the beginning~"]
+    }
+  ],
+  "click": [],
+  "seasons": [
+    {
+      "date": "01/01",
+      "text": "Happy New Year! Welcome to {year}!"
+    },
+    {
+      "date": "02/14",
+      "text": "Happy Valentine's Day~ Have you found someone special yet?"
+    },
+    {
+      "date": "10/31",
+      "text": "Happy Halloween! Don't get spooked out there~"
+    },
+    {
+      "date": "12/24-12/25",
+      "text": "Merry Christmas! Ho ho ho~"
+    },
+    {
+      "date": "12/31",
+      "text": "New Year's Eve! {year} is almost over — make it count!"
+    }
+  ],
+  "time": [
+    {
+      "hour": "6-7",
+      "text": "Good morning! Rise and shine — the day is just getting started!"
+    },
+    {
+      "hour": "8-11",
+      "text": "Good morning! Hope your day is going smoothly. Remember to take breaks!"
+    },
+    {
+      "hour": "12-13",
+      "text": "Lunchtime! Don't skip meals — you need energy to keep going!"
+    },
+    {
+      "hour": "14-17",
+      "text": "Afternoon energy slump? Hang in there! You're doing great."
+    },
+    {
+      "hour": "18-19",
+      "text": "Evening already? Time flies! Hope you had a productive day."
+    },
+    {
+      "hour": "20-21",
+      "text": "Good evening! How was your day? Don't forget to rest!"
+    },
+    {
+      "hour": "22-23",
+      "text": ["It's getting late! Make sure you get some sleep!", "Don't stay up too long — your eyes need rest too!"]
+    },
+    {
+      "hour": "0-5",
+      "text": "Still awake? You night owl! Don't forget to sleep eventually~"
+    }
+  ],
+  "message": {
+    "default": [
+      "Hi there! I'm March 7th!",
+      "The path of the Hunt... sounds kind of lonely, actually.",
+      "A true knight never backs down!",
+      "Welcome to Hector's site!",
+      "Feel free to explore~",
+      "Need any help navigating?"
+    ],
+    "console": "Oh? You opened the DevTools! Are you a developer too?",
+    "copy": "Copied! Don't forget to credit your sources~",
+    "visibilitychange": "You're back! I missed you~",
+    "changeSuccess": "How do I look?",
+    "changeFail": "I don't have any other outfits right now!",
+    "photo": "Did it come out nice? I think I look pretty good!",
+    "goodbye": "See you next time! May you always find what you're looking for.",
+    "welcome": "Now reading: <span>「$1」</span>",
+    "referrer": "Hello! Welcome, visitor from <span>$1</span>!",
+    "hoverBody": [
+      "Hey, watch where you're pointing that mouse!",
+      "What are you doing?",
+      "That tickles!",
+      "H-hey!",
+      "Back off a little!"
+    ],
+    "tapBody": [["Hey! Stop that!", "I'll tell Himeko on you!", "Knock it off!", "I'm warning you~"]]
+  },
+  "models": [
+    {
+      "name": "March 7th",
+      "paths": ["/live2d/model/march7th/index.json"],
+      "message": "Hi, I'm March 7th! Nice to meet you!"
+    }
+  ]
+}

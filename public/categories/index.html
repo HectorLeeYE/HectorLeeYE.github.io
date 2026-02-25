@@ -4,7 +4,7 @@
   dir="ltr"
   class="scroll-smooth"
   data-default-appearance="dark"
-  data-auto-appearance="true"><head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  data-auto-appearance="true"><head>
   <meta charset="utf-8">
   
     <meta http-equiv="content-language" content="en">
@@ -26,7 +26,7 @@
   
   
   
-  <link rel="canonical" href="http://localhost:1313/categories/">
+  <link rel="canonical" href="https://hectorleeye.github.io/categories/">
   
     
       <link rel="alternate" type="application/rss+xml" href="/categories/index.xml" title="Hector's Website" />
@@ -75,7 +75,7 @@
   
 
   
-  <meta property="og:url" content="http://localhost:1313/categories/">
+  <meta property="og:url" content="https://hectorleeye.github.io/categories/">
   <meta property="og:site_name" content="Hector&#39;s Website">
   <meta property="og:title" content="Categories">
   <meta property="og:description" content="Hector&#39;s Website and Blog. Contains projects, writeups, learnings">
@@ -239,7 +239,7 @@
     
     
     "inLanguage": "en",
-    "url" : "http://localhost:1313/categories/",
+    "url" : "https://hectorleeye.github.io/categories/",
     "author" : {
       "@type": "Person",
       "name": "Hector Lee"
@@ -260,6 +260,34 @@
 
 
   
+  
+    
+
+
+  
+
+  <script
+    data-id="umami-script"
+    async
+    src="https://analytics.umami.is/script.js"
+    data-website-id="3a53ff6a-e947-4457-bb8f-7cf1480976f6"></script>
+
+
+
+
+  <script type="text/javascript">
+    document.querySelector('script[data-id="umami-script"]').addEventListener("load", function () {
+      const type = document.head.querySelector('meta[property = "og:type"]').getAttribute("content");
+      let title = document.head.querySelector('meta[property = "og:title"]').getAttribute("content");
+      let url = document.head.querySelector('meta[property = "og:url"]').getAttribute("content");
+      umami.track(type + ":" + title, { url: url });
+    });
+  </script>
+
+
+
+
+
   
 
   
@@ -813,7 +841,7 @@
     
       <p class="text-sm text-neutral-500 dark:text-neutral-400">
           &copy;
-          2025
+          2026
           Hector Lee
       </p>
     
@@ -846,11 +874,43 @@
     integrity="sha512-7gNIjxnJPC77GZ4uMBTqXzyyzn1FFUrbM5mhWMrCfKUoMdsknt5btgJwDvh&#43;sCQ0E53ghYrxgYqw&#43;0GCRyIEpA=="></script>
   
   
+    <link
+  rel="stylesheet"
+  href="https://fastly.jsdelivr.net/npm/live2d-widgets@1.0.0-rc.6/dist/waifu.css"
+/>
+<style>
+  #waifu        { left: auto; right: 15px; }
+  #waifu-toggle { left: auto; right: 0; margin-left: 0; margin-right: -100px; }
+  #waifu-tips   { left: auto; right: 20px; }
+</style>
+<script>
+  window.addEventListener("error", function (e) {
+    if (e.message && e.message.includes("getHitAreasCount")) {
+      e.stopImmediatePropagation();
+      e.preventDefault();
+      return true;
+    }
+  }, true);
+</script>
+<script type="module">
+  await import("https://fastly.jsdelivr.net/npm/live2d-widgets@1.0.0-rc.6/dist/waifu-tips.js");
+  initWidget({
+    waifuPath: "/live2d/waifu-tips.json",
+    cdnPath: "/live2d/",
+    cubism5Path:
+      "https://cubism.live2d.com/sdk-web/cubismcore/live2dcubismcore.min.js",
+    modelId: 0,
+    tools: ["info", "quit"],
+    drag: true,
+  });
+</script>
+
+  
 </footer>
 <div
   id="search-wrapper"
   class="invisible fixed inset-0 flex h-screen w-screen cursor-default flex-col bg-neutral-500/50 p-4 backdrop-blur-sm dark:bg-neutral-900/50 sm:p-6 md:p-[10vh] lg:p-[12vh] z-500"
-  data-url="http://localhost:1313/">
+  data-url="https://hectorleeye.github.io/">
   <div
     id="search-modal"
     class="flex flex-col w-full max-w-3xl min-h-0 mx-auto border rounded-md shadow-lg top-20 border-neutral-200 bg-neutral dark:border-neutral-700 dark:bg-neutral-800">

@@ -1,0 +1,30 @@
+<link
+  rel="stylesheet"
+  href="https://fastly.jsdelivr.net/npm/live2d-widgets@1.0.0-rc.6/dist/waifu.css"
+/>
+<style>
+  #waifu        { left: auto; right: 15px; }
+  #waifu-toggle { left: auto; right: 0; margin-left: 0; margin-right: -100px; }
+  #waifu-tips   { left: auto; right: 20px; }
+</style>
+<script>
+  window.addEventListener("error", function (e) {
+    if (e.message && e.message.includes("getHitAreasCount")) {
+      e.stopImmediatePropagation();
+      e.preventDefault();
+      return true;
+    }
+  }, true);
+</script>
+<script type="module">
+  await import("https://fastly.jsdelivr.net/npm/live2d-widgets@1.0.0-rc.6/dist/waifu-tips.js");
+  initWidget({
+    waifuPath: "/live2d/waifu-tips.json",
+    cdnPath: "/live2d/",
+    cubism5Path:
+      "https://cubism.live2d.com/sdk-web/cubismcore/live2dcubismcore.min.js",
+    modelId: 0,
+    tools: ["info", "quit"],
+    drag: true,
+  });
+</script>
