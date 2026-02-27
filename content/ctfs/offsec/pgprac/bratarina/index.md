@@ -3,7 +3,7 @@ title: "Bratarina"
 date: 2026-02-25
 description: "A writeup for Offsec's Proving Ground WriteUp, Bratarina"
 draft: false
-tags: ["OSCP", "CTF", "ctf", "bratarina", "Bratarina"]
+tags: ["OSCP", "CTF", "ctf", "bratarina", "Bratarina", "PgPrac"]
 ---
 ## Introduction
 Following Lain Kusanagi's list, here's the writeup for Bratarina
