@@ -18,6 +18,7 @@ buymeacoffee = { }
 verification = { }
 rssnext = { }
 advertisement = { }
+mainSections = ["posts", "projects", "ctfs"]
 
 [header]
 layout = "basic"
