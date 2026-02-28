@@ -3,7 +3,7 @@ title: "Cockpit ✈️"
 date: 2026-02-26
 description: "A writeup for Offsec's Proving Ground Practice, Cockpit"
 draft: false
-tags: ["OSCP", "CTF", "ctf", "bratarina", "Cockpit", "Pg Prac"]
+tags: ["OSCP", "CTF", "ctf", "Cockpit", "Pg Prac"]
 ---
 ## Introduction
 Following on Lain Kusanagi's list, here's the writeup for Cockpit.
