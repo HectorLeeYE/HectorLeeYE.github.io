@@ -1,6 +1,8 @@
 ---
 title: "ShadowGate"
-date: 2026-05-08
+date: "2026-05-08T00:00:00+08:00"
+publishDate: "2026-05-08T00:00:00+08:00"
+lastmod: "2026-05-08T00:00:00+08:00"
 description: "A writeup for HackSmarter's Latest Machine (Released roughly 2 hours ago) from time of writing- ShadowGate!"
 draft: false
 tags: ["HackSmarter", "Shadowgate", "ctf", "AD", "Active Directory", "OSCP"]
