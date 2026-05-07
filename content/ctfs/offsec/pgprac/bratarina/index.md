@@ -6,7 +6,7 @@ draft: false
 tags: ["OSCP", "CTF", "ctf", "bratarina", "Bratarina", "PgPrac"]
 ---
 ## Introduction
-Following Lain Kusanagi's list, here's the writeup for Bratarina
+Following Lain Kusanagi's list, here's the writeup for Bratarina.
 
 ## Enumeration
 Following the nmap scan:
