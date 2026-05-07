@@ -18,9 +18,6 @@ github = "https://github.com/HectorLeeYE"
 linkedin = "https://www.linkedin.com/in/hector-lee-ye/"
 
 [[params.author.links]]
-telegram = "https://t.me/schrodingers_skirt"
-
-[[params.author.links]]
 mail-spark = "mailto:hector.lee.2021@scis.smu.edu.sg"
 
 [[params.author.links]]

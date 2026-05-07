@@ -33,6 +33,12 @@ pageRef = "ctfs/thm"
 weight = 11
 parent = "X01TxeUmpl"
 
+[[main]]
+name = "HackSmarter"
+pageRef = "ctfs/hacksmarter"
+weight = 11
+parent = "X01TxeUmpl"
+
 
 [[main]]
 name = "Projects"
