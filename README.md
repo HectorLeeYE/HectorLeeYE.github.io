@@ -13,3 +13,6 @@
 The nerd shortcode is
 {{< alert icon="nerd" cardColor="#1caa55" iconColor="#1d3557" textColor="#020202" >}}
 {{< /alert >}}
+
+
+.env contains git-filter-repo
