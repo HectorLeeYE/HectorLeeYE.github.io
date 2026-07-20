@@ -26,7 +26,7 @@ file-cv = "/Hector_Resume_250925.pdf"
 [[params.author.links]]
 box = "https://app.hackthebox.com/profile/1919737"
 
-["params.author"]
+[params.author]
 name = "Hector Lee"
 image = "SpiderLily.jpg"
 headline = "Documenting my CS and Cybersecurity Journey"
