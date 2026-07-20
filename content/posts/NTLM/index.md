@@ -6,7 +6,7 @@ lastmod: "2026-05-08T00:00:00+08:00"
 description: "What's NTLM?"
 draft: false
 tags: ["NTLM", "Notes"]
----
+--- 
 ## Foreword
 Before I write this, the purpose of this post honestly is to first, remind myself what the purpose of NTLM is, and what's the process. It's more of a notes kind of thing. 
 
@@ -49,8 +49,6 @@ Alternatively, you could set up a MITM relay, and act as a middle-man in the com
 ## Tools to Use
 It's generally `responder` or Impacket's SMBServer. 
 
-## TODO
-Add more literature!
 
 ## References
 1. Microsoft. (n.d.). Microsoft NTLM - win32 apps. Win32 apps | Microsoft Learn. https://learn.microsoft.com/en-us/windows/win32/secauthn/microsoft-ntlm?redirectedfrom=MSDN 

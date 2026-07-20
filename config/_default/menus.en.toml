@@ -21,11 +21,6 @@ pageRef = "ctfs/htb"
 weight = 11
 parent = "X01TxeUmpl"
 
-[[main]]
-name = "OffSec"
-pageRef = "ctfs/offsec"
-weight = 11
-parent = "X01TxeUmpl"
 
 [[main]]
 name = "THM"
