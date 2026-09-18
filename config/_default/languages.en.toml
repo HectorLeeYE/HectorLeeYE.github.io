@@ -20,8 +20,6 @@ linkedin = "https://www.linkedin.com/in/hector-lee-ye/"
 [[params.author.links]]
 mail-spark = "mailto:hector.lee.2021@scis.smu.edu.sg"
 
-[[params.author.links]]
-file-cv = "/Hector_Resume_250925.pdf"
 
 [[params.author.links]]
 box = "https://app.hackthebox.com/profile/1919737"
@@ -29,5 +27,5 @@ box = "https://app.hackthebox.com/profile/1919737"
 [params.author]
 name = "Hector Lee"
 image = "SpiderLily.jpg"
-headline = "Documenting my CS and Cybersecurity Journey"
-bio = "Hi I'm Hector, a 24 Year Old CS student in SMU, specialising in Cybersecurity. Thanks for reading!"
+headline = "CS + Cybersec Documentation"
+bio = "I update this site from time to time, so feel free to check it out"
