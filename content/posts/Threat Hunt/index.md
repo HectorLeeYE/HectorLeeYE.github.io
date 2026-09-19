@@ -60,3 +60,9 @@ Many signs indicate that this is an unsophisticated threat actor, very likely ut
 
 ## Learning Points
 Don't click funny links. 
+
+## Artifacts 
+|Artifact Type|Source|
+|-----|-----|
+|any.run link|https://app.any.run/tasks/d012104c-4495-447c-8706-d780ac2c902b|
+|virustotal|https://www.virustotal.com/gui/url/c96092bc38f6e582502b6e253c3766200c85f4f328fa461f824662b70510df19/details|
