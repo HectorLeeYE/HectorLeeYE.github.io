@@ -1,7 +1,7 @@
 ---
 title: "Sp1derL1lly, The First Update"
 date: "2026-09-28T11:00:00+08:00"
-publishDate: "2026-09-128T11:00:00+08:00"
+publishDate: "2026-09-28T11:00:00+08:00"
 description: "A new project- Sp1derL1lly"
 draft: true
 tags: ["Browser In The Middle", "Redteam", "Phishing"]
