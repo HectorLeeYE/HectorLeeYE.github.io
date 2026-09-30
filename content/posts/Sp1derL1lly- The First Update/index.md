@@ -38,3 +38,6 @@ Although I welcome feedback and suggestions, any comments about the above 2 poin
 
 ## Warnings
 This tool is meant only for red-team, authorised offensive engagement purposes. Although I have no legal sway over you deploying it in a black hat campaign, know that I will be extremely disappointed and will not hesitate to report you to the authorities if I can. 
+
+## When is it coming?
+I'm just dotting the I's and crossing the T's, but it should come out by next week. I need to also do some extra tests + record a demo video. 
